@@ -169,6 +169,8 @@ Apache Tomcat: For deploying and running the web application.
 2.Navigate to the project folder: 
 
 3.Open Login.html or Register.html in your browser.
+
+
 **FINAL REVIEW**
 
 Review Item	Status	Remarks

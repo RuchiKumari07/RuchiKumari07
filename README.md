@@ -1,6 +1,11 @@
 **Online job portal**
+
+
 objective of the Online Job Portal project is to create a web-based application where job seekers can find and apply for job opportunities, and employers can post job openings and search for potential candidates. The platform aims to streamline the recruitment process and make it more efficient for both job seekers and employers.
+
+
 **Features :-**
+
 User Registration and Authentication
 Job Seeker Dashboard
 Employer Dashboard
@@ -25,12 +30,17 @@ Run the project:
 
 Open the project in your preferred IDE (IntelliJ IDEA or Eclipse).
 Build and run the project.
+
+
 **Technologies Used**
+
 Java (JDK 17)
 MySQL (for database)
 JDBC (for database connectivity)
 Maven (for dependency management)
+
 **Database Schema**
+
 The project uses the following tables:
 Users:
 Job Seekers
@@ -41,7 +51,10 @@ Applications:
 Job Applications
 Admin Management:
 Admins
+
+
 **##Installation JDK (Java Development Kit) Setup:**
+
 The Java Development Kit (JDK) is a software development kit used to develop Java applications. It contains everything you need to compile, debug, and run Java applications, including the Java Runtime Environment (JRE) and the necessary development tools.
 
 Steps to Install JDK: Download JDK:
@@ -75,7 +88,10 @@ Open Eclipse and go to Window -> Preferences -> Java -> Installed JREs. Click Ad
 Click on File -> New -> Java Project to create a new project. Choose a project name, and the IDE will automatically set up the project structure for you.
 
 FRONTEND
+
+
 **Features:**
+
 User Registration and Authentication:
 
 Job seekers and employers can register and create accounts.
@@ -134,6 +150,7 @@ Maven: For project management, dependency management, and build automation.
 Web Server:
 
 Apache Tomcat: For deploying and running the web application.
+
 **Project Structure:**
 expensify-Expense-Tracker/Frontend │ ├── Login.html # Login form HTML template ├── Register.html # Registration form HTML template ├── style.css # Custom CSS file for styling the forms ├── form-validation.js # JavaScript file for form validation and error handling └── README.md # Project description and setup instructions
 
@@ -174,12 +191,21 @@ Apache Tomcat: For deploying and running the web application.
 **FINAL REVIEW**
 
 Review Item	Status	Remarks
+
 Project Requirements Verified	✅	All requirements implemented.
+
 Code Review Completed	✅	Code is clean and follows standards.
+
 Functionality Tests Conducted	✅	All features tested and working.
+
 Unit Testing Completed	✅	Tests pass; no critical failures.
+
 UI/UX Review Completed	✅	UI is responsive and user-friendly.
+
 Database Integration Verified	✅	Schema optimized.
+
 Deployment Readiness Confirmed	✅	Successfully deployed locally.
+
 License
+
 This project is licensed under the MIT License.
